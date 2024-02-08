@@ -1,16 +1,18 @@
-### Hi there 👋
+### 👋 Oi, aqui é o Jeozadaque Oliveira
 
-<!--
-**Jeozadaqueoliveira/jeozadaqueoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jeozadaquegranjeiro/)
 
-Here are some ideas to get you started:
+![Jeozadaque GitHub stats](https://github-readme-stats.vercel.app/api?username=jeozadaqueoliveira&show_icons=true&theme=merko)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Tecnologias do dia a dia
+
+<div sytle="display: inline_block"><br/>
+  <img aling="center" alt="blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
+  <img aling="center" alt="krita" src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B"/>
+  <img aling="center" alt="krita" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
+  <img aling="center" alt="krita" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+
+</div>
+<br/>
+Estudante de TADS (analise e desenvolvimento de sistemas ) IFTO.
